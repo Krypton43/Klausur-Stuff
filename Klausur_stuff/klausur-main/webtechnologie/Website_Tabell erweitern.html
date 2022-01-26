@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/> 
+    <title>Tabelle erweitern</title> <!--Website Name-->
+
+    <script>
+    
+        function push(){
+        var a1 = document.getElementById('form1').value;
+                alert("Es wurde "+a1+" hinzufegügt!");
+
+                //Textknoten hinzufügen
+                //var neuvar1 =document.createTextNode(a1);
+        
+                var tr = document.createElement("tr");
+                var table = document.getElementById('table').appendChild(tr);
+                //document.table.appendChild(tr); 
+
+                var td = tr.appendChild(document.createElement('td'));
+                td.innerHTML = a1;
+                
+    }
+   
+    </script>
+</head>
+    
+<body>
+    <h1>Willkommen!</h1>
+    <ul> 
+        <li>hier können sie eine Tabelle erweitern mit JavaScript</li>
+    </ul>
+    <form>
+        <label>Neues Element:</label>
+        <input type="text" id="form1" name="baleipzig">
+        <button type="button" onclick="push()">Absenden</button>
+        
+       <table border = "1", id="table">
+    
+        <th>Tabellenkopf</th>
+        <tr>
+            <td>2</td>
+        </tr>
+         <tr>
+            <td>2</td>
+        </tr>
+    
+    </table>
+    </form>
+    
+</body>
+</html>
