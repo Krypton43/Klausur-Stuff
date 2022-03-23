@@ -6,7 +6,7 @@
 - https://github.com/laetusFlow/CPWT01
 - MetaTags https://gist.github.com/whitingx/3840905
 - Java Script Cheat Sheet https://htmlcheatsheet.com/js/
-- https://htmlcheatsheet.com/js/
-- https://htmlcheatsheet.com/
+- HTML https://htmlcheatsheet.com/
+- CSS https://htmlcheatsheet.com/css/
 
 
