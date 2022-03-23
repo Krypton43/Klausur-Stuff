@@ -8,4 +8,5 @@
 
 - https://github.com/JonasZinne
 - https://github.com/timonwalk/oop
-- 
+- Java Script Cheat Sheet https://htmlcheatsheet.com/js/
+
