@@ -9,5 +9,5 @@
 - HTML https://htmlcheatsheet.com/
 - CSS https://htmlcheatsheet.com/css/
 - Anwesenheitsliste von Simon N. https://github.com/Si-Ni/Anwesenheitsliste-Studium 
-
+-Andrii f. https://github.com/FedorchukAndrii/HTMLStruktur
 
