@@ -7,3 +7,5 @@
 - https://gist.github.com/whitingx/3840905
 
 - https://github.com/JonasZinne
+- https://github.com/timonwalk/oop
+- 
